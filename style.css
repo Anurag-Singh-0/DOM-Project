@@ -14,7 +14,7 @@ body {
 }
 
 .elem {
-    height: 150px;
+    height: 115px;
     width: 100%;
     display: flex;
     justify-content: flex-start;
